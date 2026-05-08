@@ -67,9 +67,6 @@ project/
 
 4. Use the **Back** button to return to the menu and switch algorithms.
 
-## Screenshots
-
-_Add screenshots here if you have them for a more visual README._
 
 ## Notes
 
